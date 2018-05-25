@@ -1,0 +1,97 @@
+
+
+header{
+	background-image: url("images/bg.jpeg");
+	height: 300px;
+}
+
+#log1{
+	margin-right: 600px;
+}
+ul.navbar{
+	position: absolute;
+	list-style-type:none;
+}
+ul.navbar li{
+	float: left; 
+	padding-right: 50px;
+	color: white;
+	font-size: 15px;
+	font-family: cursive;
+
+}
+
+.txt_header{
+	position: absolute;
+	clear: both;
+	width: 400px;
+	height: 200px;
+	top: 10%;
+	left: 30%;
+	float: left;
+	box-sizing: border-box;
+}
+
+.txt_header p{
+	font-family: sans-serif;
+	font-size: 25px;
+	color: white;
+	text-align: center;
+}
+	
+.txt_boton1{
+	position: absolute;
+	clear: both;
+	width: 100px;
+	height: 40px;
+	top: 30%;
+	left: 35%;
+	background-color: blue;
+	border-radius: 10px;
+	float: left;
+	box-sizing: border-box;
+}
+
+.txt_boton1 p{
+	font-family: sans-serif;
+	font-size: 13px;
+	color: white;
+	text-align: center;
+}
+
+.txt_boton2{
+	position: absolute;
+	clear: both;
+	width: 100px;
+	height: 40px;
+	top: 30%;
+	left: 45%;
+	background-color: green;
+	border-radius: 10px;
+	float: left;
+	box-sizing: border-box;
+}
+
+.txt_boton2 p{
+	font-family: sans-serif;
+	font-size: 13px;
+	color: white;
+	text-align: center;
+}
+.txt2_header{
+	position: absolute;
+	clear: both;
+	width: 400px;
+	height: 200px;
+	top: 40%;
+	left: 30%;
+	float: left;
+	box-sizing: border-box;
+}
+
+.txt2_header p{
+	font-family: sans-serif;
+	font-size: 10px;
+	color: white;
+	text-align: center;
+}
