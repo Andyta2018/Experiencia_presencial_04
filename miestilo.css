@@ -95,3 +95,194 @@ ul.navbar li{
 	color: white;
 	text-align: center;
 }
+
+
+.txt1_main{
+	clear: both;
+	height: 30px;
+	margin-top: 50px;
+	align-items: center;
+	justify-content: center;
+	
+}
+
+.txt1_main p{
+	font-family: sans-serif;
+	font-size: 20px;
+	color: black;
+	text-align: center;
+}
+
+.txt2_main{
+	height: 30px;
+	padding-left: 350px;
+	padding-right: 350px;
+	align-items: center;
+	justify-content: center;
+}
+
+.txt2_main p{
+	font-family: sans-serif;
+	font-size: 13px;
+	color: black;
+	text-align: center;
+}
+.im_main{
+	clear: both;
+	height: 100px;
+	padding-left: 500px;
+	margin-bottom: 1px;
+	align-items: center;
+	justify-content: center;
+}
+.im_main img{
+	width: 40%;
+}
+.barra{
+	clear: both;
+	position: relative;
+	height: 250px;
+	background-color: silver;
+	margin-top: 200px;
+	align-items: center;
+	justify-content: center;
+}
+
+.txt3_main{
+	position: absolute;
+	height: 30px;
+	padding-left: 40%;
+	margin-top: 30px;
+}
+
+.txt3_main p{
+	font-family: sans-serif;
+	font-size: 13px;
+	color: black;
+	text-align: center;
+}
+.txt4_main{
+	position: absolute;
+	height: 30px;
+	margin-top: 50px;
+	padding-left: 350px;
+	padding-right: 350px;
+}
+
+.txt4_main p{
+	font-family: sans-serif;
+	font-size: 13px;
+	color: black;
+	text-align: center;
+}
+main .txt_boton3{
+	position: absolute;
+	clear: both;
+	width: 100px;
+	height: 40px;
+	padding-top: 2px;
+	left: 45%;
+	background-color: blue;
+	border-radius: 10px;
+	
+}
+
+main .txt_boton3 p{
+	font-family: sans-serif;
+	font-size: 13px;
+	color: white;
+	text-align: center;
+}
+.txt5_main{
+	clear: both;
+	position: absolute;
+	height: 100px;
+	margin-top: 50px;
+	align-items: center;
+	justify-content: center;
+}
+
+.txt5_main p{
+	font-family: sans-serif;
+	font-size: 13px;
+	color: black;
+	text-align: center;
+}
+footer{
+	background-color: white;
+	height: 300px;
+	padding-left: 200px;
+}
+
+.listafooter{
+	float: left;
+	margin-right: 30px;
+	box-sizing: border-box;
+}
+ul.navbarfooter{
+	list-style-type:none;
+}
+ul.navbarfooter li{
+	
+	padding-right: 50px;
+	color: black;
+	font-size: 13px;
+	font-family: sans-serif;
+
+}
+.lista2footer{
+	float: left;
+	box-sizing: border-box;
+}
+ul.navbarfooter2{
+	list-style-type:none;
+}
+ul.navbarfooter2 li{
+	
+	padding-right: 50px;
+	color: black;
+	font-size: 13px;
+	font-family: sans-serif;
+}
+
+
+.box2{
+	margin-top: 3px;
+	width: 200px;
+	height: 30px;
+	border: solid 1px;
+	border-radius: 3px;
+	border-color: silver;
+	background-color: white;
+	float: left;
+	box-sizing: border-box;
+}
+.botton{
+	margin-top: 3px;
+	width: 60px;
+	height: 30px;
+	border: solid 1px;
+	border-radius: 5px;
+	border-color: silver;
+	background-color: white;
+	float: left;
+	box-sizing: border-box;
+}
+.botton p{
+	text-align: center;
+	font-family: sans-serif;
+	font-weight: 500;
+}
+.piepagina{
+	clear: both;
+
+	height: 100px;
+	background-color: black;
+}
+.piepagina p{
+	color: white;
+	font-size: 20px;
+	font-family: sans-serif;
+	padding-top: 40px;
+	padding-left: 100px;
+}
